@@ -1,0 +1,1003 @@
+syd,did,wei,symptom,diagnose
+40.0,253.0,2.0,Head injury,Nose bleedepistaxis
+292.0,39.0,0.0,Confusion,Anemia (low red blood cell count)
+61.0,531.0,0.0,Mouth pain,Mouth canceroropharyngeal cancer
+244.0,469.0,2.0,Face numbness (paresthesias),Migrainetype of headache
+277.0,793.0,2.0,Unusual color or odor of urine,"Bladder infectioncystitis, UTI, urinary tract infection"
+160.0,879.0,2.0,Eye redness,Allergic conjunctivitisallergic reaction in the eye
+108.0,511.0,2.0,Vaginal discharge,Neisseria gonorrhea infectionsexually transmitted disease
+244.0,1315.0,1.0,Face numbness (paresthesias),Lacunar stroke
+212.0,1307.0,1.0,Increased facial hair,Excessive hair growthHirsutism
+40.0,191.0,2.0,Head injury,"Contusionbruise, ecchymosis"
+55.0,463.0,1.0,Knee pain,Meniscus injuryknee cartilage injury
+41.0,251.0,1.0,Headache,Epidural hematomableeding around brain or spine
+104.0,1345.0,0.0,Unsteady gait (Trouble walking),Post-polio syndrome
+46.0,1285.0,2.0,Hives,Food allergy
+123.0,213.0,2.0,"Weight loss, unexplained",Diabeteshigh blood sugar
+29.0,1273.0,0.0,Fever,Herpanginamouth blisters
+9.0,25.0,0.0,Blood in vomit,Alcoholism
+15.0,1034.0,1.0,Change in behavior,Medication reaction
+189.0,471.0,1.0,Heart murmur (Abnormal heart sound),Mitral valve prolapseabnormal heart valve
+105.0,1279.0,0.0,Vaginal bleeding,Fallopian tube cancer
+10.0,788.0,1.0,Bloody diarrhea,Ulcerative colitislarge intestine inflammation
+61.0,525.0,0.0,Mouth pain,"Oral candidiasisthrush, oral yeast"
+165.0,330.0,3.0,Bleeding in brain,Head trauma
+24.0,790.0,0.0,Pain in the ear,"Upper respiratory tract infectionURI, common cold"
+91.0,191.0,2.0,Skin trauma,"Contusionbruise, ecchymosis"
+6.0,834.0,0.0,Arm ache or pain,Whiplash injuryneck injury
+15.0,462.0,3.0,Change in behavior,Meningitisspinal fluid infection
+259.0,98.0,0.0,Itchy eyes,Blepharitiseyelid swelling
+6.0,492.0,2.0,Arm ache or pain,Myocardial infarctionheart attack
+93.0,252.0,2.0,Sore throat,Epiglottitissevere throat inflammation
+147.0,703.0,2.0,Blood in urine (Hematuria),Sickle cell diseasedisease of red blood cells
+40.0,152.0,2.0,Head injury,Cervical spine fracturebroken neck bone
+244.0,126.0,0.0,Face numbness (paresthesias),Cancertumor
+57.0,63.0,0.0,Leg ache or pain,Aseptic necrosis of bonebone death and destruction
+136.0,965.0,1.0,Behavioral problem,Down syndromecommon genetic disorder
+233.0,285.0,2.0,Upper leg pain,Femoral herniagroin hernia
+61.0,327.0,2.0,Mouth pain,Hand foot and mouth diseaseCoxsackie virus
+83.0,343.0,1.0,Rectal swelling,Hemorrhoidenlarged rectal veins
+39.0,565.0,0.0,"Hand, finger ache or pain",Peripheral neuropathynerve damage
+41.0,874.0,1.0,Headache,Pseudotumor cerebriincreased pressure in the skull
+229.0,86.0,2.0,Leg redness,Bee stingwasp sting
+23.0,344.0,1.0,Ear pressure,Hemotympanumblood behind ear drum
+107.0,798.0,1.0,Vaginal bleeding during pregnancy,Uterine ruptureuterine tear during childbirth
+69.0,776.0,2.0,Numbness,Transverse myelitisspinal cord inflammation
+19.0,595.0,1.0,Depressed,Post-traumatic stress disorderPTSD
+18.0,830.0,1.0,Dark stools,WarfarinCoumadin use
+20.0,547.0,1.0,Diarrhea,"Pancreas inflammationpancreatitis, chronic"
+28.0,1301.0,1.0,Fainting,Head injury in childrenNon-accidental traumatic head injury to child
+1.0,165.0,1.0,Upper abdominal pain,Cholelithiasisgallstones
+248.0,442.0,1.0,Limping in a child,Lyme diseasebacterial infection from ticks
+246.0,172.0,2.0,Dementia,Cirrhosisliver failure and scarring
+176.0,133.0,1.0,Hand numbness (paresthesias),Carpal tunnel syndromewrist nerve compression
+171.0,334.0,2.0,Muscle spasm,Heat cramps
+131.0,155.0,1.0,Swollen lymph nodes (Large lymph nodes),Chagas diseasetrypanosomiasis
+159.0,209.0,2.0,Mouth swelling,Dental abscesstooth infection
+264.0,637.0,1.0,Stomach and abdominal pain,Pyelonephritiskidney infection
+128.0,687.0,2.0,Inconsolable baby,Sepsisserious blood infection
+240.0,452.0,2.0,Memory loss,Marijuana use
+10.0,179.0,2.0,Bloody diarrhea,Colonic diverticulitisinflammation of pouches in the large intestine
+89.0,360.0,1.0,Shoulder ache or pain,Humerus fracturebroken upper arm
+112.0,1283.0,2.0,Visual problems,Farsightednesshyperopia/hypermetropia
+112.0,1473.0,0.0,Visual problems,Retinopathy
+94.0,1535.0,0.0,Speech problem,Dystonia
+67.0,131.0,1.0,Neck ache or pain,Carotid artery dissectionneck artery tear
+36.0,793.0,1.0,"Cranky, crying, fussy, irritable child","Bladder infectioncystitis, UTI, urinary tract infection"
+25.0,1121.0,1.0,Elbow ache or pain,Bone cancerbone tumor
+62.0,1345.0,0.0,Muscle pain,Post-polio syndrome
+191.0,189.0,2.0,Skin pain,"Poison ivypoison oak, poison sumac"
+148.0,721.0,1.0,Urinary retention (Inability to urinate),"Spinal cord injury, acute"
+93.0,412.0,0.0,Sore throat,Laryngeal carcinomathroat cancer
+24.0,562.0,0.0,Pain in the ear,Periodontitisgum inflammation
+162.0,387.0,2.0,Sneezing,Influenzaseasonal flu
+30.0,328.0,1.0,Fever in the returning traveler,"Hantavirus infectionrare, serious viral infection"
+197.0,1255.0,2.0,Visual flashing lights,Focal seizurepartial seizure
+70.0,214.0,0.0,Obesity,Diabetes mellitus type 2elevated blood sugar
+242.0,25.0,1.0,Leg numbness (paresthesias),Alcoholism
+112.0,1003.0,2.0,Visual problems,Detached retinaretinal detachment
+73.0,1019.0,0.0,Heart pulsations and palpitations,Mitral stenosistight heart valve
+148.0,1147.0,0.0,Urinary retention (Inability to urinate),Diabetic neuropathynerve damage
+126.0,37.0,1.0,Tongue swelling,Anaphylactoid reactions (pseudo allergic reaction)
+171.0,542.0,2.0,Muscle spasm,Overuse syndromeinjury from repetitive activity
+2.0,788.0,0.0,Lower abdominal pain,Ulcerative colitislarge intestine inflammation
+100.0,1079.0,2.0,Toe pain,Ingrown nailonychocryptosis
+6.0,566.0,0.0,Arm ache or pain,Peripheral vascular diseaseblocked blood vessels
+5.0,1415.0,0.0,Anxiety (Nervousness),Hypoparathyroidism
+270.0,112.0,2.0,Difficulty breathing,Bronchial asthma
+155.0,758.0,1.0,Melena (Black stools from blood),Thrombocytopenialow platelet count
+229.0,719.0,2.0,Leg redness,Insect bite
+225.0,577.0,0.0,Arm itching,Pityriasis roseainflammatory skin rash
+264.0,51.0,0.0,Stomach and abdominal pain,Anxiety disordergeneralized anxiety disorderGAD
+59.0,71.0,0.0,Lethargy (Sluggishness),Autoimmune disease
+264.0,394.0,1.0,Stomach and abdominal pain,Intestinal volvulustwisting of intestine
+111.0,184.0,2.0,Vertigo (Room spinning),Concussion
+262.0,130.0,1.0,Chest pain,Cardiomyopathyweakened heart
+47.0,768.0,2.0,Hoarse voice,Tonsillitistonsil infection
+37.0,179.0,1.0,Groin pain,Colonic diverticulitisinflammation of pouches in the large intestine
+23.0,1044.0,2.0,Ear pressure,Cauliflower earwrestlers ear
+228.0,26.0,3.0,Arm redness,Allergic reaction
+281.0,127.0,2.0,Penis inflammation or swelling,Candida albicansyeast infection
+231.0,200.0,0.0,Leg itching,Cutaneous larva migransparasitic skin disease
+104.0,1099.0,1.0,Unsteady gait (Trouble walking),Lewy body dementiacommon type of dementia
+191.0,140.0,2.0,Skin pain,Cellulitisskin infection
+57.0,350.0,0.0,Leg ache or pain,"Herniated discslipped disc, ruptured disc"
+96.0,601.0,1.0,Substance abuse (Drug abuse),Prescription drug abuse
+108.0,242.0,1.0,Vaginal discharge,Endometritisinflammation of the uterus
+293.0,131.0,1.0,Headache and weakness,Carotid artery dissectionneck artery tear
+79.0,595.0,2.0,Psychiatric problem,Post-traumatic stress disorderPTSD
+264.0,967.0,0.0,Stomach and abdominal pain,Vaginal yeastfungal infection
+293.0,251.0,3.0,Headache and weakness,Epidural hematomableeding around brain or spine
+16.0,646.0,0.0,Constipation,Rectal prolapserectal protrusion
+100.0,124.0,1.0,Toe pain,Calluses and corns
+35.0,140.0,2.0,Foot pain,Cellulitisskin infection
+7.0,793.0,2.0,Back ache or pain,"Bladder infectioncystitis, UTI, urinary tract infection"
+7.0,934.0,0.0,Back ache or pain,Muscle spasmcharley horse
+21.0,617.0,1.0,Dizziness,Pulmonary embolismblood clot in the lungs
+14.0,790.0,2.0,Chills,"Upper respiratory tract infectionURI, common cold"
+11.0,585.0,1.0,Pain or soreness of breast,Pneumonialung infection
+264.0,975.0,0.0,Stomach and abdominal pain,Stomach cancergastric cancer
+217.0,203.0,1.0,Wrist swelling,De Quervain's tenosynovitishand tendon inflammation
+41.0,445.0,1.0,Headache,Major depressive disordersevere depression
+295.0,289.0,2.0,Nipple discharge,Fibrocystic breastsbreast lumpiness
+61.0,526.0,2.0,Mouth pain,Oral ulcersmouth ulcers
+277.0,347.0,0.0,Unusual color or odor of urine,Hepatitisliver inflammation
+2.0,875.0,1.0,Lower abdominal pain,"HIV AIDSHuman Immunodeficiency Virus, Acquired Immune Deficiency SyndromeHuman immunodeficiency virus [HIV] disease"
+31.0,822.0,1.0,Fever of unknown origin,Viral infections
+98.0,412.0,0.0,Swallowing problem (Dysphagia),Laryngeal carcinomathroat cancer
+123.0,1319.0,0.0,"Weight loss, unexplained",Large cell lung cancer
+78.0,316.0,1.0,Pregnancy problem,Gestational hypertensionhigh blood pressure in pregnancy
+165.0,735.0,3.0,Bleeding in brain,Subarachnoid hemorrhagebrain bleeding
+293.0,136.0,1.0,Headache and weakness,Cavernous sinus thrombosishead vein blood clot
+158.0,352.0,2.0,Mouth ulcers,Herpes stomatitisviral mouth infection
+20.0,231.0,3.0,Diarrhea,"E. coli infectionEscherichia coli, bacterial infection"
+33.0,609.0,0.0,Frequent urination (Frequency),Prostate cancermale anatomy cancer
+107.0,473.0,0.0,Vaginal bleeding during pregnancy,"Molar pregnancygestational trophoblastic disease, pregnancy-related tumor"
+41.0,239.0,1.0,Headache,Encephalitisbrain infection
+20.0,1116.0,0.0,Diarrhea,Listeriaserious bacterial illness
+113.0,1509.0,0.0,Vomiting,Hydronephrosis
+67.0,151.0,0.0,Neck ache or pain,Cervical radiculopathypinched nerve in neck
+68.0,431.0,2.0,Neck swelling,Lipomabenign fatty tumor
+77.0,640.0,1.0,Poisoning,Radiator fluidethylene glycol poisoning
+67.0,219.0,1.0,Neck ache or pain,Discitisspinal disk inflammation
+93.0,572.0,2.0,Sore throat,Pharyngitisthroat infection
+105.0,978.0,2.0,Vaginal bleeding,"Idiopathic thrombocytopenia purpuraITP, low platelets"
+153.0,640.0,1.0,Ingestion,Radiator fluidethylene glycol poisoning
+56.0,407.0,0.0,Laceration,Knee lacerationskin cut
+87.0,441.0,0.0,Seizure,"Lupussystemic lupus erythematosus, SLE"
+240.0,184.0,2.0,Memory loss,Concussion
+74.0,401.0,1.0,Pelvic pain,"Irritable bowel syndromeIBS, chronic intestinal pain and cramping"
+25.0,291.0,0.0,Elbow ache or pain,Fibromyalgiachronic pain disorder
+183.0,227.0,0.0,Blister (Pocket of fluid),Drug reaction
+15.0,1099.0,0.0,Change in behavior,Lewy body dementiacommon type of dementia
+211.0,1040.0,0.0,Infertility (Female),"Mayer Rokitansky Küster Hauser syndromeMRKH, inherited vaginal abnormality"
+287.0,1529.0,0.0,Lump or mass of breast,Triple negative breast cancer
+16.0,187.0,0.0,Constipation,Constipation
+147.0,406.0,2.0,Blood in urine (Hematuria),Kidney cancertumor
+49.0,187.0,0.0,Incontinence (leaking urine),Constipation
+257.0,790.0,2.0,Snoring,"Upper respiratory tract infectionURI, common cold"
+99.0,41.0,2.0,Swelling,Ankle swelling
+31.0,304.0,2.0,Fever of unknown origin,Fungal infections
+87.0,1257.0,2.0,Seizure,Generalized seizure disordergeneralized epilepsy
+208.0,883.0,1.0,Foot itching,Chicken poxvaricella virus
+37.0,62.0,0.0,Groin pain,Aseptic joint effusionfluid in a jointEffusion of joint
+19.0,51.0,0.0,Depressed,Anxiety disordergeneralized anxiety disorderGAD
+55.0,554.0,2.0,Knee pain,Patellar dislocationknee cap dislocation
+121.0,483.0,0.0,Tremors,Multiple sclerosisMS
+228.0,763.0,2.0,Arm redness,Tineafungal skin infection
+275.0,729.0,1.0,Low back ache or pain,Muscle strainpulled muscle
+120.0,536.0,0.0,Throat pain,"Ear infection, middle earotitis media"
+251.0,1118.0,2.0,Shin pain,Shin splintstibial stress syndrome
+116.0,1275.0,0.0,Tired,Ewing's sarcomacancer
+120.0,412.0,0.0,Throat pain,Laryngeal carcinomathroat cancer
+24.0,140.0,0.0,Pain in the ear,Cellulitisskin infection
+69.0,833.0,2.0,Numbness,West Nile virus infectionmosquito-transmitted illness
+273.0,1069.0,1.0,Congestion in chest or lungs,"Pneumocystis pneumoniaPCP, fungal lung infection"
+200.0,799.0,2.0,Blurry vision,"Uveitisiritis, eye inflammation"
+49.0,793.0,2.0,Incontinence (leaking urine),"Bladder infectioncystitis, UTI, urinary tract infection"
+270.0,322.0,1.0,Difficulty breathing,Guillain Barre syndromeascending muscle weakness
+262.0,163.0,2.0,Chest pain,Cholecystitisinflammation of the gallbladder
+227.0,425.0,0.0,Foot redness,Lichen planuschronic skin inflammation
+207.0,377.0,2.0,Low heart rate,Hypothyroidismlow thyroid hormone
+249.0,1034.0,3.0,Increased thirst,Medication reaction
+247.0,997.0,0.0,Facial droop (weakness),Sarcoidosisinflammatory disease
+241.0,302.0,2.0,Arm numbness (paresthesias),Fracturebroken bone
+32.0,406.0,0.0,Flank pain,Kidney cancertumor
+19.0,676.0,0.0,Depressed,Schizoaffective disorderfeatures of schizophrenia and mood disorder
+264.0,197.0,1.0,Stomach and abdominal pain,"Crohn's diseaseregional enteritis, Crohn's colitis, intestinal inflammation"
+65.0,505.0,2.0,Nasal injury,Nasal fracturebroken nose
+21.0,469.0,0.0,Dizziness,Migrainetype of headache
+177.0,723.0,0.0,Ankle pain,Spondylolisthesisslipped back bone
+64.0,348.0,0.0,Nasal bleeding,Hereditary hemorrhagic telangiectasiaOsler Weber Rendu syndrome
+176.0,776.0,1.0,Hand numbness (paresthesias),Transverse myelitisspinal cord inflammation
+183.0,1113.0,1.0,Blister (Pocket of fluid),Pemphigusrare skin disorder
+25.0,62.0,0.0,Elbow ache or pain,Aseptic joint effusionfluid in a jointEffusion of joint
+112.0,638.0,0.0,Visual problems,Quaternary syphilislate stage syphilis
+155.0,197.0,3.0,Melena (Black stools from blood),"Crohn's diseaseregional enteritis, Crohn's colitis, intestinal inflammation"
+264.0,1515.0,0.0,Stomach and abdominal pain,Beriberithiaminevitamin B1 deficiency
+261.0,204.0,1.0,Elbow swelling,"Deep venous thrombosisDVT, venous blood clot"
+219.0,1056.0,3.0,Arm cut (laceration),Blood vessel injury
+204.0,433.0,0.0,Low blood sugar,Liver cancertumor
+43.0,247.0,3.0,Heat illness,Hyperthermiaextreme heat exposure
+113.0,1034.0,1.0,Vomiting,Medication reaction
+88.0,653.0,0.0,Shortness of breath,"Renal failure, chronicongoing kidney failure"
+111.0,82.0,0.0,Vertigo (Room spinning),Basilar artery migraineheadache
+206.0,425.0,2.0,Darkening of the skin (Hyperpigmentation),Lichen planuschronic skin inflammation
+174.0,725.0,0.0,Skin growths,Squamous cell cancercommon skin cancer
+204.0,391.0,3.0,Low blood sugar,Insulin overdose
+62.0,773.0,1.0,Muscle pain,Toxic shock syndromelife-threatening bacterial infection complication
+25.0,360.0,0.0,Elbow ache or pain,Humerus fracturebroken upper arm
+227.0,204.0,1.0,Foot redness,"Deep venous thrombosisDVT, venous blood clot"
+214.0,1369.0,1.0,Calf swelling,Thrombophlebitissuperficial
+29.0,1329.0,0.0,Fever,Neuroblastoma
+282.0,367.0,0.0,Excessive appetite,Hyperthyroidismelevated thyroid hormone
+52.0,920.0,2.0,Skin itching,Scabiesskin disease caused by mites
+225.0,47.0,0.0,Arm itching,Ant bite
+173.0,545.0,0.0,Abdominal swelling (Stomach swelling),Pancreatic cancertumor
+196.0,810.0,0.0,Foot swelling,Vasculitisinflammation of the arteries
+69.0,133.0,1.0,Numbness,Carpal tunnel syndromewrist nerve compression
+229.0,901.0,2.0,Leg redness,Body lice
+153.0,84.0,1.0,Ingestion,Beta blocker overdoseblood pressure medication overdose
+275.0,302.0,0.0,Low back ache or pain,Fracturebroken bone
+209.0,1007.0,0.0,Hot flashes,Thyroid cancerneck gland cancer
+301.0,426.0,2.0,Shoulder stiffness or tightness,Ligament sprainconnection between two bones
+20.0,401.0,2.0,Diarrhea,"Irritable bowel syndromeIBS, chronic intestinal pain and cramping"
+187.0,704.0,0.0,Jaw pain,Sinusitissinus infection
+66.0,987.0,0.0,Nausea,Food poisoning
+58.0,302.0,2.0,Swelling of both legs,Fracturebroken bone
+262.0,115.0,2.0,Chest pain,Bronchitisbronchial tube infection
+225.0,852.0,0.0,Arm itching,Lymphomalymph node cancer
+6.0,171.0,0.0,Arm ache or pain,Chronic pain
+179.0,1026.0,1.0,Jaundice (Yellowing skin),Hemolytic anemiared blood cell destruction disorder
+53.0,662.0,1.0,Joint pain,Rheumatoid arthritistype of chronic joint inflammation
+218.0,310.0,1.0,Maroon stools,"Gastrointestinal bleedingstomach, intestine bleeding"
+238.0,441.0,0.0,Skin sores,"Lupussystemic lupus erythematosus, SLE"
+181.0,309.0,2.0,Flatulence (Passing gas),"Gastroesophageal refluxGERD, heartburn"
+54.0,513.0,1.0,Kidney pain (Flank pain),Kidney stonenephrolithiasis
+172.0,1065.0,1.0,Drooling,Rabiesdeadly viral illness transmitted by animals
+68.0,531.0,0.0,Neck swelling,Mouth canceroropharyngeal cancer
+1.0,221.0,1.0,Upper abdominal pain,Dissecting aortic aneurysmtearing and dilation of the aorta
+177.0,532.0,1.0,Ankle pain,Osteoarthritisbone inflammation
+227.0,255.0,0.0,Foot redness,Erythrasmachronic bacterial skin infection
+227.0,120.0,3.0,Foot redness,Burns
+73.0,67.0,2.0,Heart pulsations and palpitations,Atrial fibrillationirregular heart rate
+55.0,62.0,1.0,Knee pain,Aseptic joint effusionfluid in a jointEffusion of joint
+214.0,183.0,1.0,Calf swelling,Compartment syndromeincreased pressure inside muscles
+41.0,1389.0,0.0,Headache,Arnold Chiari malformation
+26.0,748.0,1.0,Eye pain (Irritation),Temporal arteritisinflamed scalp artery
+188.0,721.0,1.0,Impotence,"Spinal cord injury, acute"
+114.0,929.0,1.0,General weakness,Myotoniaimpaired muscle relaxation
+38.0,1403.0,1.0,Delusions or hallucinations,Delusional disorder
+45.0,420.0,1.0,Hip pain,Legg Calve Perthes diseasechildhood hip condition
+40.0,147.0,1.0,Head injury,Cerebrospinal fluid rhinorrhealeakage of brain fluid from the nose
+177.0,948.0,2.0,Ankle pain,Ankle fracturebroken ankle
+270.0,279.0,0.0,Difficulty breathing,Fat embolismblood clot from fat
+94.0,226.0,3.0,Speech problem,Drug overdose
+5.0,51.0,0.0,Anxiety (Nervousness),Anxiety disordergeneralized anxiety disorderGAD
+55.0,1347.0,0.0,Knee pain,Posterior cruciate ligament injuriesPCL injuryRupture of posterior cruciate ligamentSprain of posterior cruciate ligament of knee
+172.0,937.0,1.0,Drooling,Tetanuslockjaw
+37.0,934.0,0.0,Groin pain,Muscle spasmcharley horse
+146.0,417.0,2.0,Learning difficulties,Lead poisoningtoxicity
+262.0,952.0,1.0,Chest pain,Broken heart syndromeTakotsubo cardiomyopathy
+48.0,46.0,0.0,Hypothermia (Low temperature),Anorexia nervosa (eating disorder)
+35.0,1287.0,2.0,Foot pain,Foot sprain
+3.0,209.0,2.0,Abscess (Collection of pus),Dental abscesstooth infection
+28.0,99.0,3.0,Fainting,Blood loss
+14.0,536.0,2.0,Chills,"Ear infection, middle earotitis media"
+10.0,393.0,2.0,Bloody diarrhea,Intestinal ischemiadecreased intestinal blood flow
+216.0,191.0,2.0,Ear swelling,"Contusionbruise, ecchymosis"
+176.0,126.0,0.0,Hand numbness (paresthesias),Cancertumor
+72.0,637.0,3.0,Painful urination,Pyelonephritiskidney infection
+186.0,1245.0,1.0,Hair loss (Baldness),Male pattern hair losshereditary-patterned baldnessAndrogenic alopecia
+121.0,23.0,2.0,Tremors,Alcohol withdrawal syndrome (mild)
+81.0,313.0,0.0,Rash,Genital herpesHSV type 2 infection
+146.0,887.0,2.0,Learning difficulties,Dyslexiareading disorder
+156.0,257.0,0.0,Vomiting coffee ground material,Esophageal cancertumor
+2.0,291.0,0.0,Lower abdominal pain,Fibromyalgiachronic pain disorder
+159.0,352.0,2.0,Mouth swelling,Herpes stomatitisviral mouth infection
+1.0,307.0,1.0,Upper abdominal pain,Gastritisstomach inflammation
+43.0,331.0,2.0,Heat illness,Headache
+112.0,468.0,1.0,Visual problems,Methyl alcohol intoxicationmethanol
+196.0,613.0,1.0,Foot swelling,Pseudogoutcalcium deposit arthritis
+21.0,597.0,0.0,Dizziness,Postural hypotensionlow blood pressure after standing
+29.0,637.0,1.0,Fever,Pyelonephritiskidney infection
+209.0,573.0,1.0,Hot flashes,Pheochromocytomaadrenal gland tumor
+55.0,61.0,1.0,Knee pain,Arthritisjoint inflammation
+148.0,95.0,0.0,Urinary retention (Inability to urinate),Bladder cancer
+172.0,767.0,0.0,Drooling,Tonsillar cancertumor tongue
+238.0,566.0,1.0,Skin sores,Peripheral vascular diseaseblocked blood vessels
+75.0,490.0,0.0,Penile discharge,Mycoplasma genitaliumsexually transmitted disease
+21.0,687.0,1.0,Dizziness,Sepsisserious blood infection
+227.0,719.0,2.0,Foot redness,Insect bite
+181.0,139.0,2.0,Flatulence (Passing gas),Celiac diseaseceliac sprue
+239.0,698.0,1.0,Chest burning,Shinglesherpes zoster
+30.0,821.0,1.0,Fever in the returning traveler,"Viral hemorrhagic feversEbola, Lassa"
+272.0,877.0,2.0,Skin bumps,Acnepimples
+32.0,1.0,1.0,Flank pain,Abdominal aortic aneurysm(enlarged major blood vessel)
+115.0,1136.0,0.0,Weakness (Muscle localized),Complex migrainemigraine with neurologic changes
+293.0,736.0,3.0,Headache and weakness,Subdural hematomableeding on brain
+19.0,1151.0,0.0,Depressed,"Dysthymiadepression, dysthymic disorder"
+112.0,576.0,0.0,Visual problems,Pituitary tumor
+21.0,51.0,0.0,Dizziness,Anxiety disordergeneralized anxiety disorderGAD
+3.0,439.0,1.0,Abscess (Collection of pus),Lung abscesscollection of pus
+275.0,1106.0,0.0,Low back ache or pain,Synovitisinflammation of joint lining
+306.0,1148.0,0.0,High blood sugar,Diabetic nephropathydiabetes and kidney disease
+45.0,943.0,1.0,Hip pain,Osteoporosisextremely thin bone
+180.0,573.0,1.0,Night sweats,Pheochromocytomaadrenal gland tumor
+7.0,191.0,0.0,Back ache or pain,"Contusionbruise, ecchymosis"
+5.0,1309.0,0.0,Anxiety (Nervousness),Huntington diseasechorea
+164.0,107.0,3.0,Loss of balance,Brain tumorcancer of the brain
+81.0,1033.0,0.0,Rash,Sclerodermaprogressive hardening of soft tissue
+7.0,805.0,0.0,Back ache or pain,Vaginitisvaginal infection inflammation
+194.0,5.0,1.0,Lip swelling,ACE inhibitor induced coughblood pressure medication side effectDrug-induced coughDrug reaction: ACE inhibitor
+242.0,566.0,1.0,Leg numbness (paresthesias),Peripheral vascular diseaseblocked blood vessels
+226.0,577.0,0.0,Hand redness,Pityriasis roseainflammatory skin rash
+11.0,698.0,0.0,Pain or soreness of breast,Shinglesherpes zoster
+13.0,354.0,1.0,Chest pressure,Hiatal herniastomach pushes through diaphragm
+54.0,1.0,1.0,Kidney pain (Flank pain),Abdominal aortic aneurysm(enlarged major blood vessel)
+86.0,248.0,0.0,Scrotal swelling,Epidermal cyst
+114.0,858.0,0.0,General weakness,"Polymyalgia rheumaticaPMR, muscle and joint disorder"
+88.0,1463.0,1.0,Shortness of breath,Pancytopenia
+243.0,302.0,2.0,Foot numbness (paresthesias),Fracturebroken bone
+145.0,251.0,3.0,Headache after trauma,Epidural hematomableeding around brain or spine
+243.0,974.0,1.0,Foot numbness (paresthesias),Lumbar spinal stenosisspinal cord compression
+218.0,1049.0,1.0,Maroon stools,Colon polypslarge intestine tumors
+58.0,653.0,0.0,Swelling of both legs,"Renal failure, chronicongoing kidney failure"
+57.0,1166.0,1.0,Leg ache or pain,Varicose veins
+8.0,436.0,2.0,Bleeding tendency,Low plateletsthrombocytopenia
+230.0,653.0,0.0,Hand itching,"Renal failure, chronicongoing kidney failure"
+259.0,186.0,2.0,Itchy eyes,Conjunctivitispink eye
+261.0,302.0,0.0,Elbow swelling,Fracturebroken bone
+234.0,126.0,0.0,Armpit pain,Cancertumor
+254.0,881.0,2.0,Sleep disorders,Teeth grindingbruxism
+208.0,86.0,2.0,Foot itching,Bee stingwasp sting
+275.0,171.0,0.0,Low back ache or pain,Chronic pain
+128.0,177.0,2.0,Inconsolable baby,Colicprolonged infant crying episodes
+24.0,642.0,0.0,Pain in the ear,Ramsay Hunt syndromeviral infection causing facial weakness
+87.0,1365.0,0.0,Seizure,Tay-Sachs disease
+247.0,1134.0,0.0,Facial droop (weakness),Miller Fisher Syndromerare nerve disease
+174.0,909.0,0.0,Skin growths,Neurofibromatosisinherited nerve tumors
+273.0,113.0,1.0,Congestion in chest or lungs,Bronchiectasisbronchial tube inflammatory damage
+12.0,191.0,2.0,Calf pain,"Contusionbruise, ecchymosis"
+264.0,781.0,0.0,Stomach and abdominal pain,Trichomonas vaginalis infectionvaginal infection
+228.0,960.0,2.0,Arm redness,Sunburn
+179.0,164.0,1.0,Jaundice (Yellowing skin),Choledocholithiasisstone in bile duct
+29.0,474.0,2.0,Fever,Mononucleosiscommon viral illness
+41.0,868.0,1.0,Headache,Meningiomabrain tumor
+11.0,1061.0,1.0,Pain or soreness of breast,Radiation exposureradiation sickness
+269.0,1069.0,1.0,Hurts to breathe,"Pneumocystis pneumoniaPCP, fungal lung infection"
+126.0,5.0,1.0,Tongue swelling,ACE inhibitor induced coughblood pressure medication side effectDrug-induced coughDrug reaction: ACE inhibitor
+66.0,308.0,2.0,Nausea,Gastroenteritisintestinal infection
+7.0,974.0,1.0,Back ache or pain,Lumbar spinal stenosisspinal cord compression
+114.0,653.0,0.0,General weakness,"Renal failure, chronicongoing kidney failure"
+228.0,189.0,2.0,Arm redness,"Poison ivypoison oak, poison sumac"
+27.0,1076.0,0.0,Facial pain,Mucormycosisfungal infection
+29.0,462.0,2.0,Fever,Meningitisspinal fluid infection
+82.0,788.0,1.0,Rectal pain,Ulcerative colitislarge intestine inflammation
+194.0,37.0,1.0,Lip swelling,Anaphylactoid reactions (pseudo allergic reaction)
+21.0,875.0,1.0,Dizziness,"HIV AIDSHuman Immunodeficiency Virus, Acquired Immune Deficiency SyndromeHuman immunodeficiency virus [HIV] disease"
+206.0,441.0,0.0,Darkening of the skin (Hyperpigmentation),"Lupussystemic lupus erythematosus, SLE"
+62.0,1261.0,0.0,Muscle pain,Mycoplasma infectionbacteria
+68.0,118.0,2.0,Neck swelling,Burkitt lymphomalymph node tumor
+174.0,1517.0,0.0,Skin growths,Cutaneous T cell lymphoma
+121.0,462.0,1.0,Tremors,Meningitisspinal fluid infection
+98.0,842.0,0.0,Swallowing problem (Dysphagia),"Zenker's diverticulumpharyngeal pouch, weakening of the esophageal wall"
+284.0,958.0,1.0,Retaining fluid,Ascitesfluid in the abdomen
+24.0,930.0,0.0,Pain in the ear,Carbuncle
+230.0,188.0,2.0,Hand itching,Contact dermatitiscontact skin irritation
+43.0,661.0,1.0,Heat illness,Rhabdomyolysissevere muscle breakdown
+9.0,712.0,0.0,Blood in vomit,Small bowel lymphomaintestinal lymph node cancer
+93.0,209.0,0.0,Sore throat,Dental abscesstooth infection
+52.0,684.0,0.0,Skin itching,Sebaceous cystsac under the skin
+243.0,778.0,3.0,Foot numbness (paresthesias),Traumatic nerve injury
+116.0,653.0,0.0,Tired,"Renal failure, chronicongoing kidney failure"
+233.0,204.0,3.0,Upper leg pain,"Deep venous thrombosisDVT, venous blood clot"
+45.0,350.0,0.0,Hip pain,"Herniated discslipped disc, ruptured disc"
+114.0,371.0,1.0,General weakness,Hypocalcemialow blood calcium
+236.0,506.0,2.0,Nasal congestion,Nasal polypsgrowths
+112.0,14.0,1.0,Visual problems,Acute angle closure glaucomaincreased inner eye pressure
+46.0,1124.0,2.0,Hives,"Mastocytosisurticaria pigmentosa, skin disease"
+217.0,1045.0,2.0,Wrist swelling,Muscle tear
+231.0,606.0,1.0,Leg itching,Primary sclerosing cholangitisbile duct disease
+80.0,636.0,2.0,Puncture wound,Puncture wound of toe
+94.0,1301.0,0.0,Speech problem,Head injury in childrenNon-accidental traumatic head injury to child
+95.0,94.0,1.0,Spider bite,Black widow spider bite
+264.0,309.0,2.0,Stomach and abdominal pain,"Gastroesophageal refluxGERD, heartburn"
+171.0,809.0,0.0,Muscle spasm,"Vascular insufficiency due to peripheral artery diseasePAD, claudication, inadequate blood flow"
+14.0,768.0,0.0,Chills,Tonsillitistonsil infection
+113.0,329.0,1.0,Vomiting,Head injury
+99.0,233.0,0.0,Swelling,Ear swelling
+57.0,1275.0,0.0,Leg ache or pain,Ewing's sarcomacancer
+1.0,975.0,0.0,Upper abdominal pain,Stomach cancergastric cancer
+231.0,1034.0,3.0,Leg itching,Medication reaction
+76.0,79.0,1.0,Penis pain,Balanitispenis swelling
+64.0,97.0,2.0,Nasal bleeding,Bleeding tendencybleeding disorder
+262.0,67.0,1.0,Chest pain,Atrial fibrillationirregular heart rate
+13.0,266.0,0.0,Chest pressure,Essential hypertensionhigh blood pressure
+113.0,387.0,0.0,Vomiting,Influenzaseasonal flu
+242.0,974.0,1.0,Leg numbness (paresthesias),Lumbar spinal stenosisspinal cord compression
+139.0,336.0,0.0,Itchy rash (Pruritic rash),Heat rash
+294.0,762.0,1.0,Confusion and headache,Tick borne encephalitisbrain infection
+81.0,1057.0,0.0,Rash,Hidradenitis suppurativachronic collections of pus
+233.0,809.0,0.0,Upper leg pain,"Vascular insufficiency due to peripheral artery diseasePAD, claudication, inadequate blood flow"
+146.0,1461.0,0.0,Learning difficulties,Turner syndromegonadal dysgenesis
+58.0,1119.0,0.0,Swelling of both legs,Sarcomasoft tissue cancer
+218.0,180.0,2.0,Maroon stools,Colon cancerlarge intestine tumor
+208.0,653.0,0.0,Foot itching,"Renal failure, chronicongoing kidney failure"
+72.0,793.0,2.0,Painful urination,"Bladder infectioncystitis, UTI, urinary tract infection"
+243.0,350.0,1.0,Foot numbness (paresthesias),"Herniated discslipped disc, ruptured disc"
+234.0,1441.0,1.0,Armpit pain,Lymphadenitis
+226.0,337.0,1.0,Hand redness,Heat stroke
+58.0,542.0,0.0,Swelling of both legs,Overuse syndromeinjury from repetitive activity
+146.0,894.0,2.0,Learning difficulties,Failure to thrive - childFailure to thrive-childFailure to thrive (child)
+179.0,347.0,2.0,Jaundice (Yellowing skin),Hepatitisliver inflammation
+66.0,51.0,0.0,Nausea,Anxiety disordergeneralized anxiety disorderGAD
+304.0,316.0,0.0,High blood pressure,Gestational hypertensionhigh blood pressure in pregnancy
+37.0,388.0,2.0,Groin pain,Inguinal herniagroin hernia
+293.0,812.0,1.0,Headache and weakness,Vertebral artery dissectionneck artery tear
+66.0,31.0,2.0,Nausea,Altitude illnessIllnesses due to high altitude effects
+15.0,736.0,2.0,Change in behavior,Subdural hematomableeding on brain
+6.0,244.0,0.0,Arm ache or pain,Enlarged lymph nodeslymphadenopathy
+115.0,1409.0,0.0,Weakness (Muscle localized),Fibromuscular dysplasiaFMD
+30.0,447.0,3.0,Fever in the returning traveler,Malariamosquito transmitted illness
+292.0,736.0,2.0,Confusion,Subdural hematomableeding on brain
+52.0,719.0,0.0,Skin itching,Insect bite
+29.0,327.0,2.0,Fever,Hand foot and mouth diseaseCoxsackie virus
+270.0,170.0,1.0,Difficulty breathing,"Chronic obstructive pulmonary diseaseCOPD, emphysema"
+20.0,446.0,2.0,Diarrhea,Malabsorption syndromeabnormal intestinal digestion
+19.0,93.0,2.0,Depressed,Bipolar disordermanic depressive disorder
+170.0,989.0,2.0,Cyanosis (Blue skin coloration),Raynaud's diseaseblood vessel constriction
+170.0,1051.0,1.0,Cyanosis (Blue skin coloration),Methemoglobinemiablood disorder
+225.0,606.0,1.0,Arm itching,Primary sclerosing cholangitisbile duct disease
+88.0,768.0,0.0,Shortness of breath,Tonsillitistonsil infection
+239.0,753.0,1.0,Chest burning,Tension pneumothoraxdangerous lung collapse
+52.0,900.0,2.0,Skin itching,Head lice
+272.0,1184.0,0.0,Skin bumps,"Actinic keratosisAK, skin growth"
+87.0,653.0,0.0,Seizure,"Renal failure, chronicongoing kidney failure"
+43.0,335.0,2.0,Heat illness,Heat exhaustion
+88.0,439.0,1.0,Shortness of breath,Lung abscesscollection of pus
+197.0,1004.0,1.0,Visual flashing lights,Posterior vitreous detachmentcommon eye abnormality
+136.0,303.0,0.0,Behavioral problem,Functional disorderspsychogenic illness
+67.0,771.0,2.0,Neck ache or pain,"Torticollis, spasmodicneck muscle spasm"
+190.0,883.0,2.0,Pustule (Collection of pus),Chicken poxvaricella virus
+120.0,572.0,2.0,Throat pain,Pharyngitisthroat infection
+149.0,679.0,1.0,Liver failure (Cirrhosis),Sclerosing cholangitisprogressive bile duct disease 
+208.0,1036.0,2.0,Foot itching,Bed bugs
+277.0,1034.0,2.0,Unusual color or odor of urine,Medication reaction
+29.0,1367.0,1.0,Fever,Tear duct infectionDacryocystitis
+14.0,800.0,2.0,Chills,Vaccination
+227.0,1047.0,2.0,Foot redness,Scalded skin syndromeblistering skin infection
+273.0,616.0,1.0,Congestion in chest or lungs,Pulmonary edemafluid build-up in the lungs
+194.0,140.0,2.0,Lip swelling,Cellulitisskin infection
+30.0,714.0,1.0,Fever in the returning traveler,SmallpoxVariola virus infection
+217.0,321.0,1.0,Wrist swelling,Gouturic acid crystals in the joint causing inflammation
+121.0,851.0,1.0,Tremors,Essential tremorabnormal rhythmic shaking
+205.0,310.0,2.0,Low blood pressure,"Gastrointestinal bleedingstomach, intestine bleeding"
+2.0,540.0,1.0,Lower abdominal pain,Ovarian torsiontwisting of the ovary
+217.0,1132.0,0.0,Wrist swelling,Triangular fibrocartilage complex injurywrist injury
+200.0,319.0,3.0,Blurry vision,Glaucomaelevated eye pressure
+208.0,852.0,0.0,Foot itching,Lymphomalymph node cancer
+64.0,424.0,0.0,Nasal bleeding,Leukemiablood cell cancer
+114.0,833.0,1.0,General weakness,West Nile virus infectionmosquito-transmitted illness
+41.0,834.0,0.0,Headache,Whiplash injuryneck injury
+79.0,303.0,0.0,Psychiatric problem,Functional disorderspsychogenic illness
+73.0,981.0,2.0,Heart pulsations and palpitations,"Ventricular tachycardiaVT, dangerous irregular heart beat"
+294.0,144.0,1.0,Confusion and headache,Cerebral contusionbruise of brain
+152.0,4.0,2.0,Painful rash,Abrasions (scrapes)
+64.0,504.0,0.0,Nasal bleeding,Nasal cancertumor
+255.0,529.0,1.0,Drooping eyelid (Ptosis),Orbital massgrowth near the eye
+55.0,729.0,2.0,Knee pain,Muscle strainpulled muscle
+181.0,317.0,2.0,Flatulence (Passing gas),Giardiasisgiardia infection
+19.0,1537.0,1.0,Depressed,Failure to thrive - adultfailure to thrive
+211.0,451.0,0.0,Infertility (Female),Malnutrition
+247.0,1315.0,1.0,Facial droop (weakness),Lacunar stroke
+262.0,981.0,1.0,Chest pain,"Ventricular tachycardiaVT, dangerous irregular heart beat"
+275.0,241.0,0.0,Low back ache or pain,Endometriosisuterine tissue outside the uterus
+294.0,833.0,2.0,Confusion and headache,West Nile virus infectionmosquito-transmitted illness
+243.0,983.0,2.0,Foot numbness (paresthesias),Frostbitetissue damage from cold
+120.0,309.0,0.0,Throat pain,"Gastroesophageal refluxGERD, heartburn"
+69.0,1505.0,0.0,Numbness,Finger amputation
+238.0,1057.0,0.0,Skin sores,Hidradenitis suppurativachronic collections of pus
+123.0,1293.0,0.0,"Weight loss, unexplained",Friedreich's Ataxiagenetic disorder
+306.0,315.0,0.0,High blood sugar,Gestational diabetesdiabetes during pregnancy
+47.0,716.0,1.0,Hoarse voice,Smokingtobacco use disorder
+50.0,47.0,2.0,Insect sting,Ant bite
+233.0,689.0,1.0,Upper leg pain,Septic arthritisjoint infection
+205.0,1018.0,0.0,Low blood pressure,Aortic regurgitationleaking heart valve
+97.0,21.0,3.0,Suicidal tendencies,Alcohol ethanol abuse
+30.0,1091.0,1.0,Fever in the returning traveler,Japanese encephalitisviral brain infection
+67.0,729.0,0.0,Neck ache or pain,Muscle strainpulled muscle
+238.0,66.0,2.0,Skin sores,Atopic dermatitiseczema
+17.0,309.0,1.0,Cough,"Gastroesophageal refluxGERD, heartburn"
+64.0,454.0,0.0,Nasal bleeding,Maxillary sinus carcinomasinus cancer
+39.0,1054.0,1.0,"Hand, finger ache or pain",Foreign body in a wound
+72.0,96.0,0.0,Painful urination,"Bladder stone, urinary"
+274.0,785.0,2.0,Discharge from ear,Ear drum rupturetympanic membrane rupture
+261.0,946.0,0.0,Elbow swelling,Cubital tunnel syndromenerve compression in the elbow
+293.0,329.0,3.0,Headache and weakness,Head injury
+304.0,291.0,0.0,High blood pressure,Fibromyalgiachronic pain disorder
+30.0,208.0,3.0,Fever in the returning traveler,Dengue fevertropical mosquito borne illness
+66.0,816.0,0.0,Nausea,Vertigospinning sensation
+6.0,789.0,1.0,Arm ache or pain,Unstable anginapre heart attack chest pain
+62.0,280.0,2.0,Muscle pain,Febrilefever illness
+88.0,616.0,2.0,Shortness of breath,Pulmonary edemafluid build-up in the lungs
+306.0,213.0,1.0,High blood sugar,Diabeteshigh blood sugar
+208.0,577.0,0.0,Foot itching,Pityriasis roseainflammatory skin rash
+294.0,83.0,1.0,Confusion and headache,Basilar skull fracturebroken skull
+41.0,750.0,0.0,Headache,"Temporomandibular joint syndromeTMJ, jaw joint pain"
+30.0,517.0,0.0,Fever in the returning traveler,"Norovirus infectionviral diarrhea, Norwalk virus"
+41.0,704.0,2.0,Headache,Sinusitissinus infection
+176.0,862.0,1.0,Hand numbness (paresthesias),Cervical spine stenosisnarrowing of spinal canal
+79.0,683.0,0.0,Psychiatric problem,Seasonal affective disorderintermittent seasonal depression
+30.0,671.0,1.0,Fever in the returning traveler,"Severe Acute Respiratory SyndromeSARS, serious viral pneumonia"
+230.0,1036.0,2.0,Hand itching,Bed bugs
+29.0,687.0,1.0,Fever,Sepsisserious blood infection
+69.0,128.0,1.0,Numbness,"Carbon monoxide poisoningodorless, poisonous gas"
+116.0,384.0,2.0,Tired,"Infectious mononucleosisEpstein Barr virus, ""Mono"""
+281.0,425.0,0.0,Penis inflammation or swelling,Lichen planuschronic skin inflammation
+292.0,247.0,1.0,Confusion,Hyperthermiaextreme heat exposure
+1.0,164.0,2.0,Upper abdominal pain,Choledocholithiasisstone in bile duct
+15.0,215.0,3.0,Change in behavior,"Diabetic ketoacidosisDKA, a complication of poorly controlled diabetes"
+287.0,1057.0,0.0,Lump or mass of breast,Hidradenitis suppurativachronic collections of pus
+306.0,1034.0,2.0,High blood sugar,Medication reaction
+1.0,698.0,0.0,Upper abdominal pain,Shinglesherpes zoster
+272.0,930.0,0.0,Skin bumps,Carbuncle
+73.0,50.0,2.0,Heart pulsations and palpitations,Anxiety
+231.0,856.0,0.0,Leg itching,Hodgkin's diseasecancer of the lymph system
+292.0,251.0,3.0,Confusion,Epidural hematomableeding around brain or spine
+262.0,876.0,1.0,Chest pain,Endocarditisheart valve infection
+292.0,207.0,1.0,Confusion,Dementiadecline in mental ability
+69.0,428.0,1.0,Numbness,Limb ischemiadecreased blood flow
+257.0,28.0,2.0,Snoring,Allergy
+87.0,23.0,2.0,Seizure,Alcohol withdrawal syndrome (mild)
+131.0,150.0,2.0,Swollen lymph nodes (Large lymph nodes),Cervical lymphadenopathyenlarged neck lymph nodes
+28.0,811.0,2.0,Fainting,Vasovagal syncopefainting
+187.0,480.0,3.0,Jaw pain,Mouth traumainjury
+176.0,369.0,2.0,Hand numbness (paresthesias),Hyperventilationrapid breathing
+281.0,191.0,2.0,Penis inflammation or swelling,"Contusionbruise, ecchymosis"
+203.0,451.0,0.0,Swollen gums,Malnutrition
+170.0,908.0,2.0,Cyanosis (Blue skin coloration),Meconium aspirationnewborn respiratory problem
+15.0,246.0,1.0,Change in behavior,Hypothermiaextreme cold exposure
+303.0,443.0,0.0,Arm stiffness or tightness,Lymphangitislymph tissue inflammation
+204.0,503.0,1.0,Low blood sugar,"Narcoticmorphine, heroin overdose"
+18.0,712.0,1.0,Dark stools,Small bowel lymphomaintestinal lymph node cancer
+209.0,367.0,1.0,Hot flashes,Hyperthyroidismelevated thyroid hormone
+229.0,1369.0,1.0,Leg redness,Thrombophlebitissuperficial
+242.0,302.0,2.0,Leg numbness (paresthesias),Fracturebroken bone
+214.0,140.0,2.0,Calf swelling,Cellulitisskin infection
+304.0,331.0,2.0,High blood pressure,Headache
+8.0,484.0,2.0,Bleeding tendency,Mumpsviral infection involving salivary glands
+205.0,1030.0,2.0,Low blood pressure,Addison's diseaseadrenal insufficiency
+217.0,724.0,2.0,Wrist swelling,"Sprainstretched, torn ligament"
+54.0,56.0,1.0,Kidney pain (Flank pain),Appendicitis
+241.0,565.0,1.0,Arm numbness (paresthesias),Peripheral neuropathynerve damage
+86.0,249.0,1.0,Scrotal swelling,Inflammation of testicular tubesepididymitis
+116.0,1513.0,0.0,Tired,Scurvyvitamin C deficiency
+170.0,591.0,0.0,Cyanosis (Blue skin coloration),Polycythemia veraincreased number of red blood cells
+22.0,1134.0,0.0,Double vision (Diplopia),Miller Fisher Syndromerare nerve disease
+42.0,747.0,1.0,Heel pain,Tarsal tunnel syndromefoot nerve damage
+61.0,85.0,0.0,Mouth pain,Behcets diseasesmall blood vessel inflammation disorder
+255.0,642.0,2.0,Drooping eyelid (Ptosis),Ramsay Hunt syndromeviral infection causing facial weakness
+255.0,815.0,1.0,Drooping eyelid (Ptosis),Vertebral-basilar strokestroke in the back of the brainVertebro basilar insufficiency
+156.0,265.0,2.0,Vomiting coffee ground material,Esophagitisesophageal inflammation
+301.0,1138.0,0.0,Shoulder stiffness or tightness,Reflex sympathetic dystrophycomplex pain syndrome
+170.0,657.0,1.0,Cyanosis (Blue skin coloration),"Respiratory failurebreathing failure, ARDS"
+226.0,719.0,2.0,Hand redness,Insect bite
+31.0,1277.0,0.0,Fever of unknown origin,Extragonadal germ cell tumors
+107.0,236.0,2.0,Vaginal bleeding during pregnancy,Ectopic pregnancytubal pregnancy
+213.0,809.0,0.0,Arm swelling,"Vascular insufficiency due to peripheral artery diseasePAD, claudication, inadequate blood flow"
+39.0,986.0,1.0,"Hand, finger ache or pain",Gangrenedeath of body tissue
+58.0,85.0,0.0,Swelling of both legs,Behcets diseasesmall blood vessel inflammation disorder
+204.0,1030.0,2.0,Low blood sugar,Addison's diseaseadrenal insufficiency
+146.0,677.0,1.0,Learning difficulties,Schizophreniachronic impaired reality perception
+81.0,967.0,0.0,Rash,Vaginal yeastfungal infection
+49.0,637.0,1.0,Incontinence (leaking urine),Pyelonephritiskidney infection
+203.0,85.0,0.0,Swollen gums,Behcets diseasesmall blood vessel inflammation disorder
+7.0,729.0,2.0,Back ache or pain,Muscle strainpulled muscle
+113.0,309.0,0.0,Vomiting,"Gastroesophageal refluxGERD, heartburn"
+306.0,1169.0,1.0,High blood sugar,Diabetes mellitus type 1elevated blood sugar
+73.0,923.0,3.0,Heart pulsations and palpitations,Long QT Syndromeinherited heart condition
+49.0,514.0,1.0,Incontinence (leaking urine),Neurogenic bladderbladder paralysis
+9.0,975.0,0.0,Blood in vomit,Stomach cancergastric cancer
+93.0,568.0,1.0,Sore throat,Peritonsillar abscesscollection of pus around tonsils
+294.0,912.0,1.0,Confusion and headache,Reyes syndromerare liver and brain swelling
+120.0,704.0,0.0,Throat pain,Sinusitissinus infection
+71.0,223.0,1.0,Overdose,Unisom overdosedoxylamine overdose
+51.0,33.0,2.0,Insomnia (Trouble sleeping),Amphetamine abuse
+246.0,870.0,3.0,Dementia,Hydrocephalusbrain fluid build-up
+275.0,73.0,1.0,Low back ache or pain,Back traumainjury
+13.0,471.0,0.0,Chest pressure,Mitral valve prolapseabnormal heart valve
+20.0,955.0,2.0,Diarrhea,Clostridium difficileC. Diff
+69.0,757.0,0.0,Numbness,"Thoracic outlet syndromenerve, blood vessel compression"
+11.0,109.0,2.0,Pain or soreness of breast,Breast cancertumor
+132.0,451.0,1.0,Failure to thrive,Malnutrition
+14.0,474.0,2.0,Chills,Mononucleosiscommon viral illness
+16.0,56.0,1.0,Constipation,Appendicitis
+39.0,426.0,0.0,"Hand, finger ache or pain",Ligament sprainconnection between two bones
+160.0,1473.0,0.0,Eye redness,Retinopathy
+159.0,5.0,1.0,Mouth swelling,ACE inhibitor induced coughblood pressure medication side effectDrug-induced coughDrug reaction: ACE inhibitor
+7.0,197.0,1.0,Back ache or pain,"Crohn's diseaseregional enteritis, Crohn's colitis, intestinal inflammation"
+88.0,387.0,0.0,Shortness of breath,Influenzaseasonal flu
+6.0,414.0,0.0,Arm ache or pain,Tennis elbowlateral epicondylitis
+173.0,126.0,0.0,Abdominal swelling (Stomach swelling),Cancertumor
+246.0,1034.0,3.0,Dementia,Medication reaction
+228.0,47.0,0.0,Arm redness,Ant bite
+96.0,90.0,1.0,Substance abuse (Drug abuse),BenzodiazepineValium abuse
+67.0,320.0,0.0,Neck ache or pain,Goiterenlarged thyroid
+294.0,239.0,2.0,Confusion and headache,Encephalitisbrain infection
+69.0,1269.0,0.0,Numbness,Essential thrombocythemiaexcessive blood platelets
+39.0,302.0,0.0,"Hand, finger ache or pain",Fracturebroken bone
+1.0,589.0,0.0,Upper abdominal pain,Polycystic kidney diseaseinherited kidney disorder
+45.0,1373.0,1.0,Hip pain,Traumatic hip dislocationtraumatic dislocation of hip
+301.0,724.0,1.0,Shoulder stiffness or tightness,"Sprainstretched, torn ligament"
+15.0,91.0,1.0,Change in behavior,BenzodiazepineValium overdose
+176.0,302.0,2.0,Hand numbness (paresthesias),Fracturebroken bone
+88.0,1433.0,0.0,Shortness of breath,Supraventricular tachycardiaSVT
+113.0,76.0,0.0,Vomiting,Bacterial overgrowth of small intestineBacterial Overgrowth Syndrome
+6.0,426.0,0.0,Arm ache or pain,Ligament sprainconnection between two bones
+241.0,322.0,1.0,Arm numbness (paresthesias),Guillain Barre syndromeascending muscle weakness
+170.0,616.0,2.0,Cyanosis (Blue skin coloration),Pulmonary edemafluid build-up in the lungs
+83.0,849.0,1.0,Rectal swelling,Pilonidal cystfluid filled sac on tailbone
+159.0,38.0,3.0,Mouth swelling,Anaphylaxis(severe/life threatening allergic reaction)
+164.0,883.0,1.0,Loss of balance,Chicken poxvaricella virus
+173.0,1497.0,0.0,Abdominal swelling (Stomach swelling),Urethral stricture
+21.0,107.0,1.0,Dizziness,Brain tumorcancer of the brain
+20.0,697.0,1.0,Diarrhea,Shigellosisbacterial intestinal infection
+15.0,448.0,1.0,Change in behavior,Malignant hyperthermiarare temperature abnormality
+262.0,1017.0,0.0,Chest pain,Valvular heart diseaseabnormal heart valves
+121.0,848.0,1.0,Tremors,Seizureabnormal brain electrical activity
+193.0,930.0,2.0,Skin swelling,Carbuncle
+254.0,658.0,1.0,Sleep disorders,Restless legs syndromenervous system disorder
+262.0,729.0,2.0,Chest pain,Muscle strainpulled muscle
+25.0,1106.0,0.0,Elbow ache or pain,Synovitisinflammation of joint lining
+162.0,506.0,1.0,Sneezing,Nasal polypsgrowths
+81.0,916.0,0.0,Rash,Ringworm of the scalptinea capitis
+52.0,856.0,0.0,Skin itching,Hodgkin's diseasecancer of the lymph system
+13.0,492.0,2.0,Chest pressure,Myocardial infarctionheart attack
+235.0,280.0,2.0,Sweating,Febrilefever illness
+116.0,1297.0,0.0,Tired,Glomerulonephritiskidney disease
+5.0,1151.0,0.0,Anxiety (Nervousness),"Dysthymiadepression, dysthymic disorder"
+81.0,876.0,1.0,Rash,Endocarditisheart valve infection
+225.0,425.0,0.0,Arm itching,Lichen planuschronic skin inflammation
+115.0,1395.0,0.0,Weakness (Muscle localized),Conversion disorder
+88.0,65.0,2.0,Shortness of breath,Asthma
+123.0,997.0,0.0,"Weight loss, unexplained",Sarcoidosisinflammatory disease
+225.0,920.0,2.0,Arm itching,Scabiesskin disease caused by mites
+54.0,659.0,1.0,Kidney pain (Flank pain),Retroperitoneal hemorrhageflank bleeding
+23.0,140.0,0.0,Ear pressure,Cellulitisskin infection
+230.0,741.0,0.0,Hand itching,Swimmer's itchcercarial dermatitis
+116.0,1267.0,0.0,Tired,Gallbladder cancer
+95.0,893.0,3.0,Spider bite,Staphylococcus aureustype of bacteria
+9.0,345.0,1.0,Blood in vomit,Henoch Schönlein purpurablood vessel inflammation
+100.0,1012.0,2.0,Toe pain,Toe fracture
+77.0,48.0,3.0,Poisoning,Anticholinergic drug overdose
+10.0,197.0,2.0,Bloody diarrhea,"Crohn's diseaseregional enteritis, Crohn's colitis, intestinal inflammation"
+193.0,882.0,2.0,Skin swelling,Chemical burn
+33.0,201.0,1.0,Frequent urination (Frequency),Cystocelebladder hernia
+5.0,225.0,1.0,Anxiety (Nervousness),Drug overusePrescription Drug Overuse
+7.0,56.0,1.0,Back ache or pain,Appendicitis
+180.0,367.0,1.0,Night sweats,Hyperthyroidismelevated thyroid hormone
+93.0,1273.0,2.0,Sore throat,Herpanginamouth blisters
+104.0,638.0,0.0,Unsteady gait (Trouble walking),Quaternary syphilislate stage syphilis
+54.0,179.0,1.0,Kidney pain (Flank pain),Colonic diverticulitisinflammation of pouches in the large intestine
+20.0,179.0,1.0,Diarrhea,Colonic diverticulitisinflammation of pouches in the large intestine
+22.0,1136.0,0.0,Double vision (Diplopia),Complex migrainemigraine with neurologic changes
+25.0,321.0,1.0,Elbow ache or pain,Gouturic acid crystals in the joint causing inflammation
+41.0,51.0,0.0,Headache,Anxiety disordergeneralized anxiety disorderGAD
+293.0,868.0,1.0,Headache and weakness,Meningiomabrain tumor
+6.0,203.0,0.0,Arm ache or pain,De Quervain's tenosynovitishand tendon inflammation
+45.0,121.0,1.0,Hip pain,Bursitisinflammation of joint cushion
+188.0,213.0,1.0,Impotence,Diabeteshigh blood sugar
+1.0,939.0,0.0,Upper abdominal pain,Umbilical herniabelly button hernia
+41.0,768.0,0.0,Headache,Tonsillitistonsil infection
+238.0,890.0,1.0,Skin sores,Psoriasisscaly skin disease
+188.0,1337.0,0.0,Impotence,Paraphimosis
+104.0,1395.0,0.0,Unsteady gait (Trouble walking),Conversion disorder
+2.0,637.0,1.0,Lower abdominal pain,Pyelonephritiskidney infection
+292.0,367.0,1.0,Confusion,Hyperthyroidismelevated thyroid hormone
+86.0,388.0,2.0,Scrotal swelling,Inguinal herniagroin hernia
+93.0,525.0,0.0,Sore throat,"Oral candidiasisthrush, oral yeast"
+211.0,45.0,2.0,Infertility (Female),Anorexia(eating disorder)
+139.0,66.0,2.0,Itchy rash (Pruritic rash),Atopic dermatitiseczema
+136.0,45.0,2.0,Behavioral problem,Anorexia(eating disorder)
+123.0,875.0,1.0,"Weight loss, unexplained","HIV AIDSHuman Immunodeficiency Virus, Acquired Immune Deficiency SyndromeHuman immunodeficiency virus [HIV] disease"
+64.0,663.0,0.0,Nasal bleeding,Rhinosporidiosisfungal nasal infection
+145.0,184.0,2.0,Headache after trauma,Concussion
+112.0,330.0,3.0,Visual problems,Head trauma
+96.0,452.0,2.0,Substance abuse (Drug abuse),Marijuana use
+106.0,538.0,0.0,Vaginal bleeding after menopause,Ovarian cancerfemale organ cancer
+40.0,736.0,3.0,Head injury,Subdural hematomableeding on brain
+58.0,78.0,1.0,Swelling of both legs,Baker's cystfluid sac behind knee
+49.0,483.0,1.0,Incontinence (leaking urine),Multiple sclerosisMS
+94.0,551.0,1.0,Speech problem,Parkinson's diseasemovement disorder
+293.0,870.0,1.0,Headache and weakness,Hydrocephalusbrain fluid build-up
+1.0,991.0,0.0,Upper abdominal pain,Diverticulosisweakening of the large intestine wall
+183.0,882.0,2.0,Blister (Pocket of fluid),Chemical burn
+48.0,20.0,1.0,Hypothermia (Low temperature),Alcohol ethanol intoxication
+231.0,852.0,0.0,Leg itching,Lymphomalymph node cancer
+68.0,571.0,1.0,Neck swelling,"Pharyngeal pouchZenker's diverticulum, weakening of the esophageal wall"
+121.0,658.0,0.0,Tremors,Restless legs syndromenervous system disorder
+7.0,662.0,0.0,Back ache or pain,Rheumatoid arthritistype of chronic joint inflammation
+230.0,425.0,0.0,Hand itching,Lichen planuschronic skin inflammation
+49.0,1034.0,1.0,Incontinence (leaking urine),Medication reaction
+8.0,1439.0,1.0,Bleeding tendency,Von Willebrand's disease
+203.0,562.0,2.0,Swollen gums,Periodontitisgum inflammation
+205.0,185.0,1.0,Low blood pressure,Congestive heart failureCHF
+208.0,856.0,0.0,Foot itching,Hodgkin's diseasecancer of the lymph system
+148.0,864.0,0.0,Urinary retention (Inability to urinate),Spinal cord tumor
+114.0,477.0,1.0,General weakness,Motor neuron diseaseprogressive nerve disorder
+174.0,931.0,2.0,Skin growths,Melanomaskin cancer
+275.0,643.0,0.0,Low back ache or pain,Rectal abscesscollection of pus in the rectum
+39.0,133.0,1.0,"Hand, finger ache or pain",Carpal tunnel syndromewrist nerve compression
+66.0,215.0,3.0,Nausea,"Diabetic ketoacidosisDKA, a complication of poorly controlled diabetes"
+171.0,483.0,0.0,Muscle spasm,Multiple sclerosisMS
+275.0,678.0,1.0,Low back ache or pain,Sciaticalower back nerve irritation
+226.0,985.0,0.0,Hand redness,"Skin blood vessel damageChilblains, pernio"
+40.0,30.0,3.0,Head injury,Altered mental statusconfusion
+89.0,236.0,1.0,Shoulder ache or pain,Ectopic pregnancytubal pregnancy
+35.0,582.0,1.0,Foot pain,"Plantar warthuman papilloma virus infection, foot warts"
+15.0,377.0,1.0,Change in behavior,Hypothyroidismlow thyroid hormone
+243.0,723.0,1.0,Foot numbness (paresthesias),Spondylolisthesisslipped back bone
+1.0,1115.0,2.0,Upper abdominal pain,Ventral herniabulging of the abdominal wall
+87.0,371.0,0.0,Seizure,Hypocalcemialow blood calcium
+255.0,146.0,3.0,Drooping eyelid (Ptosis),Cerebral vascular accidentstroke
+113.0,816.0,0.0,Vomiting,Vertigospinning sensation
+22.0,576.0,0.0,Double vision (Diplopia),Pituitary tumor
+87.0,861.0,1.0,Seizure,Sagittal sinus thrombosisvenous blood clot in the brain
+81.0,1317.0,0.0,Rash,Langerhans cell histiocytosisHistiocytosis X
+275.0,140.0,0.0,Low back ache or pain,Cellulitisskin infection
+227.0,86.0,2.0,Foot redness,Bee stingwasp sting
+277.0,1169.0,0.0,Unusual color or odor of urine,Diabetes mellitus type 1elevated blood sugar
+22.0,454.0,0.0,Double vision (Diplopia),Maxillary sinus carcinomasinus cancer
+112.0,1249.0,0.0,Visual problems,Scleritisinflammation of the eye
+88.0,1345.0,0.0,Shortness of breath,Post-polio syndrome
+282.0,199.0,0.0,Excessive appetite,Cushing diseaseexcessive pituitary gland hormones
+2.0,309.0,0.0,Lower abdominal pain,"Gastroesophageal refluxGERD, heartburn"
+89.0,510.0,1.0,Shoulder ache or pain,Necrotizing fasciitislife-threatening infection
+230.0,26.0,3.0,Hand itching,Allergic reaction
+123.0,1275.0,0.0,"Weight loss, unexplained",Ewing's sarcomacancer
+70.0,727.0,2.0,Obesity,Steroid use
+67.0,1007.0,0.0,Neck ache or pain,Thyroid cancerneck gland cancer
+21.0,59.0,3.0,Dizziness,Arrhythmiaabnormal heart rhythm
+25.0,729.0,2.0,Elbow ache or pain,Muscle strainpulled muscle
+275.0,219.0,1.0,Low back ache or pain,Discitisspinal disk inflammation
+242.0,565.0,2.0,Leg numbness (paresthesias),Peripheral neuropathynerve damage
+29.0,442.0,1.0,Fever,Lyme diseasebacterial infection from ticks
+28.0,838.0,2.0,Fainting,"Wolff Parkinson White syndromeWPW, additional electrical pathway in the heart"
+15.0,225.0,2.0,Change in behavior,Drug overusePrescription Drug Overuse
+177.0,751.0,2.0,Ankle pain,Tendonitistendon inflammation
+292.0,205.0,3.0,Confusion,Dehydration
+255.0,1135.0,1.0,Drooping eyelid (Ptosis),Aponeurotic ptosisage-related drooping eyelid
+275.0,307.0,0.0,Low back ache or pain,Gastritisstomach inflammation
+47.0,384.0,1.0,Hoarse voice,"Infectious mononucleosisEpstein Barr virus, ""Mono"""
+15.0,39.0,0.0,Change in behavior,Anemia (low red blood cell count)
+263.0,719.0,0.0,Skin infection,Insect bite
+81.0,883.0,0.0,Rash,Chicken poxvaricella virus
+20.0,1379.0,0.0,Diarrhea,Tropical sprue
+116.0,483.0,1.0,Tired,Multiple sclerosisMS
+209.0,464.0,1.0,Hot flashes,Menopauseend of menstruation and fertility
+173.0,1059.0,1.0,Abdominal swelling (Stomach swelling),Spleen injurysplenic rupture
+120.0,525.0,0.0,Throat pain,"Oral candidiasisthrush, oral yeast"
+98.0,572.0,2.0,Swallowing problem (Dysphagia),Pharyngitisthroat infection
+176.0,566.0,1.0,Hand numbness (paresthesias),Peripheral vascular diseaseblocked blood vessels
+176.0,946.0,1.0,Hand numbness (paresthesias),Cubital tunnel syndromenerve compression in the elbow
+272.0,796.0,0.0,Skin bumps,Urticariahives
+211.0,117.0,2.0,Infertility (Female),"Bulimia nervosabinge eating, vomiting"
+237.0,613.0,1.0,Joint stiffness,Pseudogoutcalcium deposit arthritis
+277.0,172.0,1.0,Unusual color or odor of urine,Cirrhosisliver failure and scarring
+13.0,1008.0,2.0,Chest pressure,"Coronary artery diseaseCAD, heart disease"
+123.0,1333.0,0.0,"Weight loss, unexplained",Parathyroid cancer
+7.0,42.0,0.0,Back ache or pain,Ankylosing spondylitis (severe spine arthritis)
+36.0,920.0,0.0,"Cranky, crying, fussy, irritable child",Scabiesskin disease caused by mites
+247.0,1409.0,0.0,Facial droop (weakness),Fibromuscular dysplasiaFMD
+208.0,47.0,0.0,Foot itching,Ant bite
+81.0,931.0,1.0,Rash,Melanomaskin cancer
+304.0,367.0,0.0,High blood pressure,Hyperthyroidismelevated thyroid hormone
+233.0,678.0,1.0,Upper leg pain,Sciaticalower back nerve irritation
+136.0,969.0,1.0,Behavioral problem,Alzheimer's diseasedementia
+207.0,185.0,2.0,Low heart rate,Congestive heart failureCHF
+66.0,492.0,1.0,Nausea,Myocardial infarctionheart attack
+53.0,321.0,1.0,Joint pain,Gouturic acid crystals in the joint causing inflammation
+25.0,1119.0,0.0,Elbow ache or pain,Sarcomasoft tissue cancer
+85.0,754.0,0.0,Scrotal pain,Testicular cancertumor
+7.0,547.0,1.0,Back ache or pain,"Pancreas inflammationpancreatitis, chronic"
+189.0,1062.0,2.0,Heart murmur (Abnormal heart sound),Marfan syndromerare inherited disease
+275.0,934.0,0.0,Low back ache or pain,Muscle spasmcharley horse
+244.0,302.0,2.0,Face numbness (paresthesias),Fracturebroken bone
+35.0,183.0,1.0,Foot pain,Compartment syndromeincreased pressure inside muscles
+58.0,204.0,2.0,Swelling of both legs,"Deep venous thrombosisDVT, venous blood clot"
+28.0,775.0,1.0,Fainting,"Transient ischemic attackTIA, reversible stroke"
+72.0,696.0,0.0,Painful urination,Sexually transmitted diseaseSTD
+69.0,1301.0,0.0,Numbness,Head injury in childrenNon-accidental traumatic head injury to child
+51.0,676.0,0.0,Insomnia (Trouble sleeping),Schizoaffective disorderfeatures of schizophrenia and mood disorder
+37.0,219.0,1.0,Groin pain,Discitisspinal disk inflammation
+69.0,946.0,1.0,Numbness,Cubital tunnel syndromenerve compression in the elbow
+202.0,525.0,0.0,Painful gums,"Oral candidiasisthrush, oral yeast"
+24.0,572.0,2.0,Pain in the ear,Pharyngitisthroat infection
+128.0,924.0,1.0,Inconsolable baby,Coronary artery anomalyheart artery malformation
+93.0,27.0,0.0,Sore throat,Allergic rhinitis (allergic reaction in the nose)
+131.0,1385.0,0.0,Swollen lymph nodes (Large lymph nodes),Yaws
+36.0,399.0,3.0,"Cranky, crying, fussy, irritable child",Intussusceptiontelescoping intestine
+67.0,18.0,0.0,Neck ache or pain,Frozen shoulder (adhesive capsulitis of shoulder)
+226.0,475.0,2.0,Hand redness,Mosquito bite
+193.0,140.0,2.0,Skin swelling,Cellulitisskin infection
+55.0,691.0,2.0,Knee pain,Septic knee jointinfected knee joint
+64.0,175.0,1.0,Nasal bleeding,Cocaine abuse
+139.0,200.0,0.0,Itchy rash (Pruritic rash),Cutaneous larva migransparasitic skin disease
+157.0,64.0,3.0,Ringing in ears (Tinnitus),Aspirinsalicylates overdose
+227.0,882.0,2.0,Foot redness,Chemical burn
+241.0,417.0,2.0,Arm numbness (paresthesias),Lead poisoningtoxicity
+237.0,387.0,2.0,Joint stiffness,Influenzaseasonal flu
+251.0,204.0,1.0,Shin pain,"Deep venous thrombosisDVT, venous blood clot"
+170.0,378.0,3.0,Cyanosis (Blue skin coloration),Hypoxialack of oxygen
+20.0,310.0,1.0,Diarrhea,"Gastrointestinal bleedingstomach, intestine bleeding"
+121.0,246.0,1.0,Tremors,Hypothermiaextreme cold exposure
+58.0,321.0,0.0,Swelling of both legs,Gouturic acid crystals in the joint causing inflammation
+274.0,140.0,0.0,Discharge from ear,Cellulitisskin infection
+78.0,362.0,1.0,Pregnancy problem,Hyperemesis gravidarumsevere vomiting in pregnancy
+188.0,732.0,1.0,Impotence,Stress
+179.0,172.0,2.0,Jaundice (Yellowing skin),Cirrhosisliver failure and scarring
+284.0,377.0,1.0,Retaining fluid,Hypothyroidismlow thyroid hormone
+264.0,139.0,1.0,Stomach and abdominal pain,Celiac diseaseceliac sprue
+229.0,920.0,2.0,Leg redness,Scabiesskin disease caused by mites
+218.0,179.0,1.0,Maroon stools,Colonic diverticulitisinflammation of pouches in the large intestine
+292.0,1399.0,1.0,Confusion,"Decompression sicknessbends, caisson's disease"
+98.0,259.0,2.0,Swallowing problem (Dysphagia),Esophageal foreign body
+58.0,172.0,1.0,Swelling of both legs,Cirrhosisliver failure and scarring
+264.0,875.0,1.0,Stomach and abdominal pain,"HIV AIDSHuman Immunodeficiency Virus, Acquired Immune Deficiency SyndromeHuman immunodeficiency virus [HIV] disease"
+234.0,865.0,2.0,Armpit pain,Brachial plexus injuryshoulder nerve injury
+77.0,123.0,1.0,Poisoning,Calcium channel blocker overdoseblood pressure medication overdose
+37.0,589.0,0.0,Groin pain,Polycystic kidney diseaseinherited kidney disorder
+71.0,391.0,1.0,Overdose,Insulin overdose
+229.0,120.0,3.0,Leg redness,Burns
+262.0,1321.0,0.0,Chest pain,Malignant Mesothelioma
+262.0,1020.0,0.0,Chest pain,Mitral regurgitationleaking heart valve
+236.0,560.0,0.0,Nasal congestion,Perforated septumhole in skin between nostrils
+128.0,56.0,2.0,Inconsolable baby,Appendicitis
+23.0,461.0,0.0,Ear pressure,Meniere's diseasedizziness and vertigo
+41.0,782.0,0.0,Headache,Trigeminal neuralgiafacial nerve pain
+292.0,870.0,1.0,Confusion,Hydrocephalusbrain fluid build-up
+238.0,917.0,2.0,Skin sores,Ringworm of the bodytinea corporis
+5.0,93.0,1.0,Anxiety (Nervousness),Bipolar disordermanic depressive disorder
+197.0,483.0,0.0,Visual flashing lights,Multiple sclerosisMS
+22.0,528.0,3.0,Double vision (Diplopia),Orbital fracturebroken bone near the eye
+28.0,68.0,1.0,Fainting,Atrioventricular node conduction blockheart block
+55.0,140.0,2.0,Knee pain,Cellulitisskin infection
+226.0,999.0,2.0,Hand redness,Folliculitishair follicle infection
+58.0,689.0,1.0,Swelling of both legs,Septic arthritisjoint infection
+238.0,909.0,0.0,Skin sores,Neurofibromatosisinherited nerve tumors
+304.0,651.0,0.0,High blood pressure,Renal artery stenosiskidney artery narrowing
+277.0,96.0,0.0,Unusual color or odor of urine,"Bladder stone, urinary"
+40.0,339.0,2.0,Head injury,Hematomacollection of blood
+269.0,836.0,1.0,Hurts to breathe,Whooping coughpertussis
+281.0,696.0,0.0,Penis inflammation or swelling,Sexually transmitted diseaseSTD
+90.0,132.0,0.0,Sinus pain and pressure,Carotid cavernous fistulaabnormal blood vessel communication
+262.0,51.0,0.0,Chest pain,Anxiety disordergeneralized anxiety disorderGAD
+40.0,251.0,3.0,Head injury,Epidural hematomableeding around brain or spine
+69.0,1363.0,1.0,Numbness,Takayasu's arteritisGiant cell arteritis of the young
+20.0,1034.0,1.0,Diarrhea,Medication reaction
+112.0,1255.0,1.0,Visual problems,Focal seizurepartial seizure
+27.0,782.0,1.0,Facial pain,Trigeminal neuralgiafacial nerve pain
+272.0,189.0,0.0,Skin bumps,"Poison ivypoison oak, poison sumac"
+64.0,830.0,1.0,Nasal bleeding,WarfarinCoumadin use
+36.0,694.0,0.0,"Cranky, crying, fussy, irritable child",Serum sicknessabnormal immune system response
+56.0,40.0,2.0,Laceration,Ankle laceration (cut in skin)
+29.0,163.0,2.0,Fever,Cholecystitisinflammation of the gallbladder
+270.0,897.0,3.0,Difficulty breathing,Inhaled foreign bodyin respiratory tract
+222.0,1053.0,3.0,Foot cut (laceration),Tendon lacerationtendon cut
+177.0,350.0,0.0,Ankle pain,"Herniated discslipped disc, ruptured disc"
+129.0,962.0,0.0,Wheezing (Noisy breathing),"Cystic fibrosisinherited disease of lungs, digestive system"
+146.0,19.0,2.0,Learning difficulties,Adjustment disorder (poor adjustment to life stressor)
+294.0,873.0,1.0,Confusion and headache,Cerebral aneurysmbrain artery dilation
+233.0,350.0,1.0,Upper leg pain,"Herniated discslipped disc, ruptured disc"
+113.0,550.0,1.0,Vomiting,Parasite infection
+145.0,593.0,2.0,Headache after trauma,Post concussive syndromesymptoms after a concussion
+222.0,72.0,2.0,Foot cut (laceration),Avulsionsforcible tissue detachment
+132.0,45.0,1.0,Failure to thrive,Anorexia(eating disorder)
+194.0,404.0,2.0,Lip swelling,Kawasaki diseasepediatric blood vessel disease
+178.0,1141.0,0.0,Hemoptysis (Coughing blood),Small cell lung cancer
+4.0,206.0,2.0,Alcohol abuse,"Delirium tremensDTs, severe alcohol withdrawal"
+275.0,350.0,1.0,Low back ache or pain,"Herniated discslipped disc, ruptured disc"
+228.0,901.0,2.0,Arm redness,Body lice
+238.0,1421.0,2.0,Skin sores,Keloidovergrown scar
+249.0,205.0,3.0,Increased thirst,Dehydration
+26.0,992.0,0.0,Eye pain (Irritation),Graves' diseaseoverproduction of thyroid hormone
+2.0,793.0,2.0,Lower abdominal pain,"Bladder infectioncystitis, UTI, urinary tract infection"
+90.0,725.0,0.0,Sinus pain and pressure,Squamous cell cancercommon skin cancer
+93.0,244.0,0.0,Sore throat,Enlarged lymph nodeslymphadenopathy
+87.0,833.0,1.0,Seizure,West Nile virus infectionmosquito-transmitted illness
+290.0,151.0,0.0,Neck stiffness or tightness,Cervical radiculopathypinched nerve in neck
+203.0,531.0,1.0,Swollen gums,Mouth canceroropharyngeal cancer
+243.0,833.0,1.0,Foot numbness (paresthesias),West Nile virus infectionmosquito-transmitted illness
+55.0,121.0,2.0,Knee pain,Bursitisinflammation of joint cushion
+170.0,246.0,3.0,Cyanosis (Blue skin coloration),Hypothermiaextreme cold exposure
+271.0,1196.0,2.0,Pulling at ears,Eustachian tube dysfunctioninner ear tube
+252.0,86.0,2.0,Stings,Bee stingwasp sting
+15.0,677.0,1.0,Change in behavior,Schizophreniachronic impaired reality perception
+258.0,763.0,1.0,Dry skin,Tineafungal skin infection
+20.0,317.0,0.0,Diarrhea,Giardiasisgiardia infection
+9.0,308.0,0.0,Blood in vomit,Gastroenteritisintestinal infection
+85.0,249.0,1.0,Scrotal pain,Inflammation of testicular tubesepididymitis
+273.0,185.0,1.0,Congestion in chest or lungs,Congestive heart failureCHF
+264.0,140.0,0.0,Stomach and abdominal pain,Cellulitisskin infection
+164.0,184.0,2.0,Loss of balance,Concussion
+14.0,308.0,0.0,Chills,Gastroenteritisintestinal infection
+51.0,93.0,0.0,Insomnia (Trouble sleeping),Bipolar disordermanic depressive disorder
+72.0,514.0,0.0,Painful urination,Neurogenic bladderbladder paralysis
+220.0,778.0,3.0,Hand cut (laceration),Traumatic nerve injury
+16.0,36.0,1.0,Constipation,Anal fissure (tear)
+292.0,699.0,1.0,Confusion,Shocksevere low blood pressure
+98.0,767.0,0.0,Swallowing problem (Dysphagia),Tonsillar cancertumor tongue
+145.0,736.0,3.0,Headache after trauma,Subdural hematomableeding on brain
+238.0,977.0,2.0,Skin sores,Molesnevi
+264.0,163.0,1.0,Stomach and abdominal pain,Cholecystitisinflammation of the gallbladder
+282.0,117.0,0.0,Excessive appetite,"Bulimia nervosabinge eating, vomiting"
+301.0,13.0,1.0,Shoulder stiffness or tightness,AC joint separationacromioclavicular joint separationclosed separation of acromioclavicular joint
+4.0,452.0,0.0,Alcohol abuse,Marijuana use
+273.0,69.0,3.0,Congestion in chest or lungs,Atypical pneumonialung infection
+15.0,969.0,1.0,Change in behavior,Alzheimer's diseasedementia
+126.0,531.0,0.0,Tongue swelling,Mouth canceroropharyngeal cancer
+93.0,218.0,1.0,Sore throat,Diphtheria infectionbacterial respiratory infection
+21.0,1008.0,1.0,Dizziness,"Coronary artery diseaseCAD, heart disease"
+241.0,723.0,0.0,Arm numbness (paresthesias),Spondylolisthesisslipped back bone
+12.0,566.0,0.0,Calf pain,Peripheral vascular diseaseblocked blood vessels
+227.0,48.0,1.0,Foot redness,Anticholinergic drug overdose
+250.0,392.0,0.0,Increased urination (polyuria),Interstitial cystitisbladder inflammation
+275.0,849.0,0.0,Low back ache or pain,Pilonidal cystfluid filled sac on tailbone
+19.0,569.0,0.0,Depressed,Personality disorderunhealthy patterns of thinking and behavior
+115.0,862.0,1.0,Weakness (Muscle localized),Cervical spine stenosisnarrowing of spinal canal
+222.0,778.0,3.0,Foot cut (laceration),Traumatic nerve injury
+230.0,200.0,0.0,Hand itching,Cutaneous larva migransparasitic skin disease
+112.0,756.0,1.0,Visual problems,Third cranial nerve disorderdisorder of eye movement
+275.0,943.0,0.0,Low back ache or pain,Osteoporosisextremely thin bone
+19.0,502.0,0.0,Depressed,"Narcoticmorphine, heroin abuse"
+41.0,184.0,0.0,Headache,Concussion
+195.0,358.0,2.0,Eye swelling,Hordeolumstye of eye
+39.0,863.0,1.0,"Hand, finger ache or pain",Cervical myelopathyspinal cord compression
+225.0,86.0,2.0,Arm itching,Bee stingwasp sting
+81.0,66.0,2.0,Rash,Atopic dermatitiseczema
+189.0,973.0,2.0,Heart murmur (Abnormal heart sound),Congenital heart diseaseheart defect at birth
+55.0,533.0,0.0,Knee pain,Osteochondritis dissecansjoint disorder
+111.0,469.0,1.0,Vertigo (Room spinning),Migrainetype of headache
+103.0,697.0,3.0,Traveler's diarrhea,Shigellosisbacterial intestinal infection
+242.0,1073.0,0.0,Leg numbness (paresthesias),Compression fracturebroken spinal bone
+118.0,1015.0,2.0,Wrist pain,Scaphoid fracturebroken hand bone
+155.0,307.0,2.0,Melena (Black stools from blood),Gastritisstomach inflammation
+248.0,302.0,2.0,Limping in a child,Fracturebroken bone
+88.0,26.0,1.0,Shortness of breath,Allergic reaction
+235.0,464.0,1.0,Sweating,Menopauseend of menstruation and fertility
+13.0,618.0,0.0,Chest pressure,Pulmonary fibrosislung scarring
+11.0,4.0,0.0,Pain or soreness of breast,Abrasions (scrapes)
+54.0,291.0,0.0,Kidney pain (Flank pain),Fibromyalgiachronic pain disorder
+121.0,1535.0,0.0,Tremors,Dystonia
+194.0,896.0,2.0,Lip swelling,Impetigobacterial skin infection
+123.0,117.0,2.0,"Weight loss, unexplained","Bulimia nervosabinge eating, vomiting"
+233.0,302.0,2.0,Upper leg pain,Fracturebroken bone
+282.0,372.0,3.0,Excessive appetite,Hypoglycemialow blood sugar
+67.0,291.0,0.0,Neck ache or pain,Fibromyalgiachronic pain disorder
+294.0,31.0,1.0,Confusion and headache,Altitude illnessIllnesses due to high altitude effects
+202.0,209.0,2.0,Painful gums,Dental abscesstooth infection
+262.0,1293.0,0.0,Chest pain,Friedreich's Ataxiagenetic disorder
+239.0,261.0,1.0,Chest burning,Esophageal spasmpainful muscle contraction
+28.0,376.0,3.0,Fainting,Hypotensionlow blood pressure
+128.0,736.0,2.0,Inconsolable baby,Subdural hematomableeding on brain
+63.0,500.0,2.0,Nail Injury,Nail lacerationnail bed cut
+39.0,698.0,0.0,"Hand, finger ache or pain",Shinglesherpes zoster
+263.0,905.0,0.0,Skin infection,Erysipelasbacterial skin infection
+24.0,233.0,0.0,Pain in the ear,Ear swelling
+87.0,541.0,3.0,Seizure,Overdose
+205.0,687.0,3.0,Low blood pressure,Sepsisserious blood infection
+28.0,981.0,1.0,Fainting,"Ventricular tachycardiaVT, dangerous irregular heart beat"
+115.0,1389.0,0.0,Weakness (Muscle localized),Arnold Chiari malformation
+41.0,209.0,0.0,Headache,Dental abscesstooth infection
+239.0,195.0,1.0,Chest burning,Costochondritischest wall inflammation
+292.0,874.0,1.0,Confusion,Pseudotumor cerebriincreased pressure in the skull
+92.0,237.0,1.0,Snake bite,"ElapidElapid venomcobra, coral, mamba venom toxicity"
+243.0,1034.0,3.0,Foot numbness (paresthesias),Medication reaction
+241.0,983.0,3.0,Arm numbness (paresthesias),Frostbitetissue damage from cold
+118.0,1119.0,0.0,Wrist pain,Sarcomasoft tissue cancer
+248.0,534.0,1.0,Limping in a child,Osteomyelitisbone infection
+265.0,93.0,1.0,Anger,Bipolar disordermanic depressive disorder
+264.0,805.0,0.0,Stomach and abdominal pain,Vaginitisvaginal infection inflammation
+152.0,882.0,2.0,Painful rash,Chemical burn
+113.0,822.0,0.0,Vomiting,Viral infections
+113.0,1363.0,1.0,Vomiting,Takayasu's arteritisGiant cell arteritis of the young
+272.0,920.0,2.0,Skin bumps,Scabiesskin disease caused by mites
+295.0,453.0,1.0,Nipple discharge,Mastitisbreast infection inflammation
+27.0,209.0,2.0,Facial pain,Dental abscesstooth infection
+74.0,241.0,1.0,Pelvic pain,Endometriosisuterine tissue outside the uterus
+304.0,808.0,0.0,High blood pressure,Blood vessel headachefamilial basilar artery migraine headache
+45.0,711.0,1.0,Hip pain,Slipped capital femoral epiphysisadolescent hip disorder
+14.0,387.0,2.0,Chills,Influenzaseasonal flu
+82.0,646.0,0.0,Rectal pain,Rectal prolapserectal protrusion
+204.0,213.0,2.0,Low blood sugar,Diabeteshigh blood sugar
+17.0,786.0,1.0,Cough,Typhoid feversalmonella typhi infection from contaminated food or water
+200.0,14.0,3.0,Blurry vision,Acute angle closure glaucomaincreased inner eye pressure
+262.0,616.0,1.0,Chest pain,Pulmonary edemafluid build-up in the lungs
+162.0,664.0,2.0,Sneezing,Rhinovirus infectioncommon cold
+261.0,1211.0,1.0,Elbow swelling,Muscle and ligament inflammationenthesopathy
+112.0,1483.0,0.0,Visual problems,Aphakia
+99.0,709.0,1.0,Swelling,Skin swelling
+132.0,205.0,2.0,Failure to thrive,Dehydration
+282.0,599.0,0.0,Excessive appetite,Pregnancy
+57.0,466.0,0.0,Leg ache or pain,Metastatic neoplasmcancer spread
